@@ -86,6 +86,14 @@
 .British .l1 {color:rgba(255,255,255,1);}
 .British .l2 {color:rgba(255,255,255,1);}
 
+.French {background-color:rgb(16, 184, 235);border:2px solid rgba(0,0,0,1);}
+.French .pad {background-color:rgba(200,200,0,1);border:2px solid rgba(0,0,0,1);}
+.French .line {background-color:rgba(0,0,0,1);}
+.French .size {color:rgba(255,255,255,1);}
+.French .l0 {color:rgba(255,255,255,1);}
+.French .l1 {color:rgba(255,255,255,1);}
+.French .l2 {color:rgba(255,255,255,1);}
+
 .Indian {background-color:rgba(100,100,0,1);border:2px solid rgba(0,0,0,1);}
 .Indian .pad {background-color:rgba(200,200,0,1);border:2px solid rgba(0,0,0,1);}
 .Indian .line {background-color:rgba(0,0,0,1);}

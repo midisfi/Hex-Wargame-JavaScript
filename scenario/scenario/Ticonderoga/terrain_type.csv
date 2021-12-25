@@ -9,3 +9,6 @@ trench,2,TRUE
 block,20,TRUE
 lake,20,TRUE
 fort,1,TRUE
+bridge,2,TRUE
+crossing,4,TRUE
+stream,2,TRUE

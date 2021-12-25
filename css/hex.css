@@ -34,35 +34,55 @@
 	border-right-color  : transparent;
 }
 
-.open.hex .head {	border-bottom-color:rgba(50,200,50,0.5);}
+.open.hex .head { border-bottom-color:rgba(50,200,50,0.5);}
 .open.hex .center {	background-color:rgba(50,200,50,0.5);}
 .open.hex .tail{ border-top-color:rgba(50,200,50,0.5);}
 
 
-.hill.hex .head {	border-bottom-color:rgba(200,200,100,0.8);}
+.hill.hex .head { border-bottom-color:rgba(200,200,100,0.8);}
 .hill.hex .center {	background-color:rgba(200,200,100,0.8);}
 .hill.hex .tail{ border-top-color:rgba(200,200,100,0.8);}
 
-.river.hex .head {	border-bottom-color:rgba(100,100,250,0.8);}
-.river.hex .center {	background-color:rgba(100,100,250,0.8);}
+.river.hex .head { border-bottom-color:rgba(100,100,250,0.8);}
+.river.hex .center { background-color:rgba(100,100,250,0.8);}
 .river.hex .tail{ border-top-color:rgba(100,100,250,0.8);}
 
 .forest.hex .head {	border-bottom-color:rgba(30,200,60,0.95);}
-.forest.hex .center {	background-color:rgba(30,200,60,0.95);}
+.forest.hex .center { background-color:rgba(30,200,60,0.95);}
 .forest.hex .tail{ border-top-color:rgba(30,200,60,0.95);}
 
-.town.hex .head {	border-bottom-color:rgba(175,179,172,0.5);}
+.town.hex .head { border-bottom-color:rgba(175,179,172,0.5);}
 .town.hex .center {	background-color:rgba(175,179,172,0.5);}
 .town.hex .tail{ border-top-color:rgba(175,179,172,0.5);}
 
 .trench.hex .head {	border-bottom-color:rgba(173,137,79,0.9);}
-.trench.hex .center {	background-color:rgba(173,137,79,0.9);}
+.trench.hex .center { background-color:rgba(173,137,79,0.9);}
 .trench.hex .tail{ border-top-color:rgba(173,137,79,0.9);}
 
-.block.hex .head {	border-bottom-color:rgba(0,0,0,1);}
-.block.hex .center {	background-color:rgba(0,0,0,1);}
+.block.hex .head { border-bottom-color:rgba(0,0,0,1);}
+.block.hex .center { background-color:rgba(0,0,0,1);}
 .block.hex .tail{ border-top-color:rgba(0,0,0,1);}
 
-.space.hex .head {	border-bottom-color:rgba(10,10,10,0.9);}
-.space.hex .center {	background-color:rgba(10,10,10,0.9);}
+.space.hex .head { border-bottom-color:rgba(10,10,10,0.9);}
+.space.hex .center { background-color:rgba(10,10,10,0.9);}
 .space.hex .tail{ border-top-color:rgba(10,10,10,0.9);}
+
+.fort.hex .head { border-bottom-color:rgba(46, 43, 43, 0.9);}
+.fort.hex .center {	background-color:rgba(46, 43, 43, 0.9);}
+.fort.hex .tail{ border-top-color:rgba(46, 43, 43, 0.9);}
+
+.bridge.hex .head {	border-bottom-color:rgba(100,100,250, 0.8);}
+.bridge.hex .center { background-color:rgba(30, 30, 253, 0.8);}
+.bridge.hex .tail{ border-top-color:rgba(100,100,250, 0.8);}
+
+.crossing.hex .head { border-bottom-color:rgba(151, 151, 247, 0.8);}
+.crossing.hex .center {	background-color:rgba(151, 151, 247, 0.8);}
+.crossing.hex .tail{ border-top-color:rgba(151, 151, 247, 0.8);}
+
+.lake.hex .head { border-bottom-color:rgba(51, 51, 255, 0.8);}
+.lake.hex .center {	background-color:rgba(51, 51, 255, 0.8);}
+.lake.hex .tail{ border-top-color:rgba(51, 51, 255, 0.8);}
+
+.stream.hex .head { border-bottom-color:rgba(19, 243, 194, 0.8);}
+.stream.hex .center { background-color:rgba(19, 243, 194, 0.8);}
+.stream.hex .tail{ border-top-color:rgba(19, 243, 194, 0.8);}
