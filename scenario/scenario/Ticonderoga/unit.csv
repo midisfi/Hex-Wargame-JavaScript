@@ -4,11 +4,11 @@ id,side,m,n,combat,movement,VP,label,pad,img,color,enter_time,group,range,size
 3,0,0,1,8,4,10,42nd Foot Black Watch,infantry,,British,0,0,1,II
 4,0,2,0,6,4,5,44th Foot,infantry,,British,0,0,2,II
 5,0,1,1,6,4,5,46th Foot,infantry,,British,0,0,1,II
-6,0,0,2,6,4,5,12th reg II,infantry,,British,0,0,1,II
-7,0,3,0,6,6,5,4th reg I,cavalry,,British,0,0,1,III
-8,0,10,7,6,6,10,19th l-cav reg,cavalry,,British,0,0,1,III
-9,0,9,7,4,6,5,4th cav reg,cavalry,,British,0,0,1,III
-10,0,11,7,4,6,5,5th cav reg,cavalry,,British,0,0,1,III
+6,0,0,2,6,4,5,55th Foot,infantry,,British,0,0,1,II
+7,0,3,0,6,6,5,60th Foot,infantry,,British,0,0,1,III
+8,0,10,7,6,6,10,80th Light Armed Foot,infantry,,British,0,0,1,III
+9,0,9,7,4,6,5,Royal artillery 1 co,infantry,,British,0,0,1,III
+10,0,11,7,4,6,5,Royal artillery 2 co,,British,0,0,1,III
 11,0,9,8,4,6,5,7th cav reg,cavalry,,British,0,0,1,III
 12,0,10,8,4,3,5,Artillery 1,Artillery,,British,0,0,2,I
 13,0,11,8,4,3,5,Artillery 2,Artillery,,British,0,0,2,I
