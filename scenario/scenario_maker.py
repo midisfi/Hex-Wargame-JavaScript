@@ -7,6 +7,14 @@ Created on Fri Dec 04 15:58:53 2015
 import json
 import csv
 import sys
+import platform
+
+# Check OS
+my_os = platform.system()
+if my_os == 'Linux':
+    slashes = '/'
+else:
+    slashes = '\\'
 
 # entities should be implemented by class,every class output a
 # dictionary. Thesee dictionary finally integrate to a 
@@ -177,14 +185,14 @@ class CSV_model(object):
         self.root=root
         for reg in self.register:
             print('load '+reg)
-            path=root+'\\'+reg
+            path=root+slashes+reg
             #f=open(path,'rb')
             #self.csv[reg]=list(csv.reader(f))
             with open(path) as f:
                 self.csv[reg]=self.clean(list(csv.reader(f)))
         for reg in self.raw_register:
             print('load '+reg)
-            path=root+'\\'+reg
+            path=root+slashes+reg
             with open(path) as f:
                 self.raw[reg]=f.read()
     def parse_AI(self):
