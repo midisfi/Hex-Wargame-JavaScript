@@ -9,9 +9,9 @@ id,side,m,n,combat,movement,VP,label,pad,img,color,enter_time,group,range,size
 8,0,10,7,4,4,10,80th Light Armed Foot,infantry,,British,0,0,1,III
 9,0,9,7,4,2,15,Royal Artillery 1st co,Artillery,,British,0,0,3,III
 10,0,11,7,4,2,15,Royal Artillery 2nd co,Artillery,,British,0,0,3,III
-11,0,9,8,4,6,5,7th cav reg,cavalry,,British,0,0,1,III
-12,0,10,8,4,3,5,Artillery 1,Artillery,,British,0,0,2,I
-13,0,11,8,4,3,5,Artillery 2,Artillery,,British,0,0,2,I
+11,0,9,8,4,6,5,Rogers Rangers,infantry,,British,0,0,1,III
+12,0,10,8,4,3,5,Ruggles Mass. Reg.,infantry,,British,0,0,2,I
+13,0,11,8,4,3,5,Bagleys Mass. Reg.,infantry,,British,0,0,2,I
 14,1,4,6,7,5,20,Montcalm,HQ,,French,0,1,1,XXX
 15,1,5,6,3,3,6,Canonniers-Bombardiers,Artillery,,French,0,1,3,I
 16,1,4,7,4,4,2,La Reine,infantry,,French,0,1,1,III
